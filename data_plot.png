@@ -1,0 +1,5 @@
+### Passos para Adicionar ao Repositório Git
+
+1. **Clone o Repositório:**
+   ```bash
+   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
