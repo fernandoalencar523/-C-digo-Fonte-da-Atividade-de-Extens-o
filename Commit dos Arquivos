@@ -1,0 +1,2 @@
+git add data_analysis.py data.csv README.md
+git commit -m "Adicionar código-fonte e arquivos de exemplo"
